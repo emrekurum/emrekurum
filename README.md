@@ -4,7 +4,7 @@ Hello, I am Emre Kurum. I'm a final-year Computer Engineering student at Süleym
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif"/><br>
+<img align="right" height="150" src="[https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnI3Z2RoeGwzYnZ4dnF6bnR5NnpqeDdpZGRwNmI3YXZmdm90NHRueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif)"/><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo"  />
