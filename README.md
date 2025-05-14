@@ -38,7 +38,10 @@ Hello, I am Emre Kurum. I'm a final-year Computer Engineering student at Süleym
 </div>
 
 <div align="left">
+  
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://github-contribution-stats.vercel.app/api/snake?username=emrekurum&theme=dracula" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/emrekurum/emrekurum/main/dist/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
+</div>
+</div>
 </div>
