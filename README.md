@@ -40,7 +40,7 @@ Hello, I am Emre Kurum. I'm a final-year Computer Engineering student at Süleym
 <div align="left">
   
   <h2>🐍 My Contributions 🐍</h2>
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/emrekurum/emrekurum/blob/output/github-contribution-grid-snake.gif)
   <br/><br/><br/>
 </div>
 </div>
