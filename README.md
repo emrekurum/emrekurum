@@ -1,6 +1,6 @@
 <h3 align="left">Hi there 👋</h3>
 
- I'm Emre Kurum  
+  I'm Emre Kurum  
 
 🎓 Final-year Computer Engineering student at Süleyman Demirel University  
 💻 Passionate about **mobile app development (React Native)** and **backend engineering (Node.js, PostgreSQL, Firebase)**  
