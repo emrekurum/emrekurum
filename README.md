@@ -1,6 +1,12 @@
-<h3 align="left">Hi 👋🏻</h3>
+<h3 align="left">Hi there 👋</h3>
 
-Hello, I am Emre Kurum. I'm a final-year Computer Engineering student at Süleyman Demirel University, specializing in mobile development with React Native and backend development with Node.js.
+ I'm Emre Kurum  
+
+🎓 Final-year Computer Engineering student at Süleyman Demirel University  
+💻 Passionate about **mobile app development (React Native)** and **backend engineering (Node.js, PostgreSQL, Firebase)**  
+🚀 Actively building projects that combine modern technologies with real-world problem solving  
+🌍 Open to international opportunities in **software development, automation, and AI-driven solutions**  
+
 
 <br/>
 
