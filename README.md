@@ -1,12 +1,19 @@
-<h3 align="left">Hi there 👋</h3>
+<h3 align="left">Hi there 👋 I'm Emre Kurum</h3>
 
-  I'm Emre Kurum  
+<p align="left">🚀 <b>Computer Engineer | Mobile & Backend Developer</b></p>
 
-🎓 Final-year Computer Engineering student at Süleyman Demirel University  
-💻 Passionate about **mobile app development (React Native)** and **backend engineering (Node.js, PostgreSQL, Firebase)**  
-🚀 Actively building projects that combine modern technologies with real-world problem solving  
-🌍 Open to international opportunities in **software development, automation, and AI-driven solutions**  
+<p align="left">
+  I specialize in building scalable mobile applications and robust backend architectures. My focus is on writing <b>Clean Code</b>, optimizing performance, and integrating <b>AI agents</b> into real-world solutions.
+</p>
 
+<p align="left">
+  🎓 <b>Degree:</b> B.Sc. in Computer Engineering from Süleyman Demirel University<br>
+  💻 <b>Mobile:</b> React Native, Expo, TypeScript<br>
+  ⚙️ <b>Backend:</b> Node.js, FastAPI (Python), Next.js<br>
+  🗄️ <b>Infrastructure:</b> Docker, PostgreSQL, Firebase, n8n (Automation)<br>
+  🧠 <b>Interest:</b> AI Agents, System Architecture, Automation<br>
+  🌍 Open to international opportunities in software engineering.
+</p>
 
 <br/>
 
@@ -25,25 +32,21 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnI3Z2RoeGwzYnZ4dnF6bnR5NnpqeDdpZGRwNmI3YXZmdm90NHRueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif"/><br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node.js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  
+  <br/>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+
+  <br/>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </div>
 
 <br clear="both">
@@ -51,7 +54,7 @@
 <h2 align="left">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrekurum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrekurum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrekurum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
