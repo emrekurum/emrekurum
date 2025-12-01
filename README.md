@@ -53,14 +53,10 @@
 
 <h2 align="left">⚡ Stats ⚡</h2>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=emrekurum&show_icons=true&theme=dracula&hide_border=true" alt="Emre's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekurum&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emrekurum&show_icons=true&theme=dracula&hide_border=true" height="180" alt="Emre's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekurum&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
+</div>
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
