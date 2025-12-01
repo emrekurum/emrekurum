@@ -53,13 +53,16 @@
 
 <h2 align="left">⚡ Stats ⚡</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrekurum&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrekurum&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph"/>
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=emrekurum&show_icons=true&theme=dracula&hide_border=true" alt="Emre's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekurum&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/emrekurum/emrekurum/output/github-snake-dark.svg" />
-  <br/><br/><br/>
 </div>
