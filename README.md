@@ -51,6 +51,16 @@
 
 <br clear="both">
 
+<h2 align="left">⚡ GitHub Stats & Streak ⚡</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emrekurum&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekurum&layout=compact&theme=dracula&hide_border=true" height="150" alt="langs" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrekurum&theme=dracula&hide_border=true" height="150" alt="streak" />
+</div>
+
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/emrekurum/emrekurum/output/github-snake-dark.svg" />
