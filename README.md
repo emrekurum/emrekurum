@@ -1,23 +1,23 @@
 <h3 align="left">Hi there 👋 I'm Emre Kurum</h3>
 
-<p align="left">🚀 <b>Computer Engineer | Mobile & Backend Developer</b></p>
+<p align="left"><b>Computer Engineer | Mobile & Backend Developer</b></p>
 
 <p align="left">
-  I specialize in building scalable mobile applications and robust backend architectures. My focus is on writing <b>Clean Code</b>, optimizing performance, and integrating <b>AI agents</b> into real-world solutions.
+  I build scalable mobile applications and robust backend architectures with a strong focus on <b>clean code principles</b>, <b>high performance</b>, and practical <b>AI agent integration</b> in real-world systems.
 </p>
 
 <p align="left">
-  🎓 <b>Degree:</b> B.Sc. in Computer Engineering from Süleyman Demirel University<br>
+  🎓 <b>Education:</b> B.Sc. in Computer Engineering – Süleyman Demirel University<br>
   💻 <b>Mobile:</b> React Native, Expo, TypeScript<br>
   ⚙️ <b>Backend:</b> Node.js, FastAPI (Python), Next.js<br>
   🗄️ <b>Infrastructure:</b> Docker, PostgreSQL, Firebase, n8n (Automation)<br>
-  🧠 <b>Interest:</b> AI Agents, System Architecture, Automation<br>
-  🌍 Open to international opportunities in software engineering.
+  🧠 <b>Focus Areas:</b> AI Agents, System Architecture, Automation<br>
+  🌍 Open to international opportunities in software engineering
 </p>
 
 <br/>
 
-<h2 align="left">🌐 Connect with Me 🍬</h2>
+<h2 align="left">Connect with Me</h2>
 <hr/>
 <p align="left">
   <a href="https://www.linkedin.com/in/emre-kurum/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">Languages • Frameworks • Tools</h2>
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnI3Z2RoeGwzYnZ4dnF6bnR5NnpqeDdpZGRwNmI3YXZmdm90NHRueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif"/><br>
 
@@ -51,17 +51,18 @@
 
 <br clear="both">
 
-<h2 align="left">⚡ GitHub Stats & Streak ⚡</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emrekurum&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekurum&layout=compact&theme=dracula&hide_border=true" height="150" alt="langs" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrekurum&theme=dracula&hide_border=true" height="150" alt="streak" />
 </div>
 
 <div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>Contributions</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/emrekurum/emrekurum/output/github-snake-dark.svg" />
 </div>
