@@ -14,7 +14,6 @@
   🧠 <b>Focus Areas:</b> AI Agents, System Architecture, Automation<br>
   🌍 Open to international opportunities in software engineering
 </p>
-
 <br/>
 
 <h2 align="left">Connect with Me</h2>
