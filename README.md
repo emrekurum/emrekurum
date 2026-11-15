@@ -1,18 +1,16 @@
 <h3 align="left">Hi, I’m Emre Kurum</h3>
 
-<p align="left"><b>Software Developer | Computer Engineer</b></p>
+<p align="left"><b>Software Developer</b></p>
 
 <p align="left">
   I build web apps with Next.js and mobile apps with React Native. Recent work includes a tool that helps teachers generate and review assessment questions, a workflow that turns scripts into video scenes, and interactive simulations with branching scenarios.
 </p>
 
-<p align="left">
-  🎓 <b>Education</b> · M.Sc. student in Computer Engineering at Süleyman Demirel University, where I also earned my B.Sc. in Computer Engineering.<br>
-  💻 <b>Web &amp; Mobile</b> · TypeScript, React, Next.js, React Native, Expo<br>
-  ⚙️ <b>APIs &amp; Data</b> · Node.js, Python, FastAPI, PostgreSQL, Firebase<br>
-  🔧 <b>Background Jobs &amp; Automation</b> · Celery, Redis, Docker, n8n
-</p>
-<br/>
+🎓 **Education** · M.Sc. student in Computer Engineering at Süleyman Demirel University, where I also earned my B.Sc. in Computer Engineering.
+
+- 💻 **Web & Mobile** · TypeScript, React, Next.js, React Native, Expo
+- ⚙️ **APIs & Data** · Node.js, Python, FastAPI, PostgreSQL, Firebase
+- 🔧 **Background Jobs & Automation** · Celery, Redis, Docker, n8n
 
 <h2 align="left">Connect with Me</h2>
 <hr/>
