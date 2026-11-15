@@ -38,7 +38,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&hide_border=true&custom_title=Languages%20in%20public%20repositories
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&hide_border=true&custom_title=Public%20repo%20languages
           path: profile/top-langs.svg
           fail_on_error: 'true'
 
