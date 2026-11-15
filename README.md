@@ -1,17 +1,16 @@
 <h3 align="left">Hi there 👋 I'm Emre Kurum</h3>
 
-<p align="left"><b>Computer Engineer | Mobile & Backend Developer</b></p>
+<p align="left"><b>Frontend Developer | Computer Engineer</b></p>
 
 <p align="left">
-  I build scalable mobile applications and robust backend architectures with a strong focus on <b>clean code principles</b>, <b>high performance</b>, and practical <b>AI agent integration</b> in real-world systems.
+  I build web and mobile apps with Next.js and React Native. My recent work includes tools that help teachers generate and review questions and workflows that turn scripts into video scenes.
 </p>
 
 <p align="left">
-  🎓 <b>Education:</b> B.Sc. in Computer Engineering – Süleyman Demirel University<br>
-  💻 <b>Mobile:</b> React Native, Expo, TypeScript<br>
-  ⚙️ <b>Backend:</b> Node.js, FastAPI (Python), Next.js<br>
-  🗄️ <b>Infrastructure:</b> Docker, PostgreSQL, Firebase, n8n (Automation)<br>
-  🧠 <b>Focus Areas:</b> AI Agents, System Architecture, Automation<br>
+  🎓 <b>Education:</b> M.Sc. student in Computer Engineering at Süleyman Demirel University, where I also earned my B.Sc.<br>
+  💻 <b>Web &amp; Mobile:</b> React, Next.js, React Native, Expo, TypeScript<br>
+  ⚙️ <b>Backend &amp; Data:</b> Node.js, Python (FastAPI), PostgreSQL, Firebase<br>
+  🗄️ <b>Infrastructure &amp; Workflows:</b> Docker, Celery, Redis, n8n<br>
   🌍 Open to international opportunities in software engineering
 </p>
 <br/>
