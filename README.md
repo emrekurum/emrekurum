@@ -49,8 +49,8 @@
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrekurum&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekurum&layout=compact&theme=dracula&hide_border=true" height="150" alt="langs" />
+  <img src="./profile/stats.svg" height="150" alt="GitHub statistics for Emre Kurum" />
+  <img src="./profile/top-langs.svg" height="150" alt="Languages in public repositories" />
 </div>
 
 <div align="center">
