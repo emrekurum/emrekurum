@@ -1,17 +1,16 @@
-<h3 align="left">Hi there 👋 I'm Emre Kurum</h3>
+<h3 align="left">Hi, I’m Emre Kurum</h3>
 
-<p align="left"><b>Frontend Developer | Computer Engineer</b></p>
+<p align="left"><b>Software Developer | Computer Engineer</b></p>
 
 <p align="left">
-  I build web and mobile apps with Next.js and React Native. My recent work includes tools that help teachers generate and review questions and workflows that turn scripts into video scenes.
+  I build web apps with Next.js and mobile apps with React Native. Recent work includes a tool that helps teachers generate and review assessment questions, a workflow that turns scripts into video scenes, and interactive simulations with branching scenarios.
 </p>
 
 <p align="left">
-  🎓 <b>Education:</b> M.Sc. student in Computer Engineering at Süleyman Demirel University, where I also earned my B.Sc.<br>
-  💻 <b>Web &amp; Mobile:</b> React, Next.js, React Native, Expo, TypeScript<br>
-  ⚙️ <b>Backend &amp; Data:</b> Node.js, Python (FastAPI), PostgreSQL, Firebase<br>
-  🗄️ <b>Infrastructure &amp; Workflows:</b> Docker, Celery, Redis, n8n<br>
-  🌍 Open to international opportunities in software engineering
+  🎓 <b>Education</b> · M.Sc. student in Computer Engineering at Süleyman Demirel University, where I also earned my B.Sc. in Computer Engineering.<br>
+  💻 <b>Web &amp; Mobile</b> · TypeScript, React, Next.js, React Native, Expo<br>
+  ⚙️ <b>APIs &amp; Data</b> · Node.js, Python, FastAPI, PostgreSQL, Firebase<br>
+  🔧 <b>Background Jobs &amp; Automation</b> · Celery, Redis, Docker, n8n
 </p>
 <br/>
 
